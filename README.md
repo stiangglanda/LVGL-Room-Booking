@@ -6,7 +6,7 @@ A cost-effective room display system for meeting spaces, built with ESP32-S3 and
 
 LVGL-Room-Booking is a prototype for an affordable room management display system designed as an extension for [OpenIndoorMaps](https://github.com/openindoormaps/openindoormaps). These embedded devices mount outside meeting rooms to show current and upcoming reservations in real-time, offering a more efficient alternative to tablets.
 
-![LVGL-Room-Booking](https://github.com/user-attachments/assets/e1172d80-f977-4949-a3f2-fc954d7649e2)
+![LVGL-Room-Booking](https://github.com/user-attachments/assets/7f11a1da-e4d2-4fef-8128-8195f1f1f175)
 
 ## Features
 
