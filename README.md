@@ -25,8 +25,11 @@ LVGL-Room-Booking is a prototype for an affordable room management display syste
 ## Software
 
 - Written in C++ using PlatformIO
+- SquareLine
 - Built with LVGL (Light and Versatile Graphics Library)
 - WiFi connectivity for backend integration
+
+![squarelineUI](https://github.com/user-attachments/assets/20e191c7-e302-4595-ad73-0fd33917022b)
 
 ## Installation
 
